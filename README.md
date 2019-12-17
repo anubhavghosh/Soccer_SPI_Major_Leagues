@@ -14,6 +14,10 @@ https://github.com/fivethirtyeight/data/tree/master/soccer-spi
 6. Document your process and results
 7. Commit your notebook, source code, visualizations and other supporting files to the git repository in GitHub
 
+# Dataset
+1. I have chosen the following dataset:
+https://github.com/fivethirtyeight/data/tree/master/soccer-spi 
+
 # Delivery Steps:
 (For detailed information, please check the Jupyter notebook or the report)
 1. Remove unwanted features
