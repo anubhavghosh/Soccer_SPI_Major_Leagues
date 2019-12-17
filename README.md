@@ -26,6 +26,7 @@ https://github.com/fivethirtyeight/data/tree/master/soccer-spi
 I have chosen a team( team 1) and summarized the actual score, predicted score, the error that came up with linear regression and the root mean square error too.
 
 6.1.2. Analysis of errors
+
 6.2. UNSEEN DATA (Test Set)
 I have chosen a team( team 1) and summarized the actual score, predicted score, the error that came up with linear regression and the root mean square error too
 
