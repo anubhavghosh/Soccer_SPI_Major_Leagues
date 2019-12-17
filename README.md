@@ -16,12 +16,12 @@ https://github.com/fivethirtyeight/data/tree/master/soccer-spi
 
 # Delivery Steps:
 (For detailed information, please check the Jupyter notebook or the report)
-1.Remove unwanted features
-2.Split the test and train data
-3.Print Linear Regression Mean Square Error for Team 1
-4.Print Linear Regression Mean Square Error for Team 2
-5.Residual Plot
-6.Analysing the work done
+1. Remove unwanted features
+2. Split the test and train data
+3. Print Linear Regression Mean Square Error for Team 1
+4. Print Linear Regression Mean Square Error for Team 2
+5. Residual Plot
+6. Analysing the work done
 6.1. SEEN DATA (Training Set)
 I have chosen a team( team 1) and summarized the actual score, predicted score, the error that came up with linear regression and the root mean square error too.
 6.1.2. Analysis of errors
